@@ -2,4 +2,4 @@
 Jedha certification project Bloc 6
 
 Human Resources : Turnover
-Bakrey Sales Analysis
+Bakery Sales Analysis
