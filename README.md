@@ -1,5 +1,3 @@
-# Data_project_B6
-Jedha certification project Bloc 6
-
+# Data_project_Bakery_Sales
 <BR>
 Bakery Sales Analysis
